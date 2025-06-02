@@ -1,9 +1,9 @@
 class Mis < Formula
   desc "A CLI framework that runs project-scoped, Deno-powered plugins for your dev workflows."
   homepage "https://github.com/elitwilson/make-it-so"
-  url "https://github.com/elitwilson/make-it-so/releases/download/v0.1.5/mis-macos.tar.gz"
-  sha256 "680645dc537259ca9589487ec66885ee85ba3748bd2a5de6d73bf900df4c8f0f"
-  version "0.1.5"
+  url "https://github.com/elitwilson/make-it-so/releases/download/v0.2.0/mis-macos.tar.gz"
+  sha256 "e36f310622b822a6024f050d89439833334ece037b48d3d00cfd5b27f1298cf4"
+  version "0.2.0"
 
   def install
     bin.install "mis"
